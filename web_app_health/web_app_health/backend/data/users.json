@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1758269483385",
+    "email": "kokilar549@gmail.com",
+    "password": "$2a$10$qmLAkRSf8bfu1VnY3Ymkz.WT85dpLXU1g7PKCg2cmkzC6ggULMiPS"
+  },
+  {
+    "id": "1758300008330",
+    "email": "banu@gmail.com",
+    "password": "$2a$10$thRTiNm9FW0VKtGKuCnOc.5dZH69cYqJxvN4aiEqU7rqR8q6WOIGu"
+  },
+  {
+    "id": "1758300820943",
+    "email": "banupriya@gmail.com",
+    "password": "$2a$10$LmE5q1BCgdvOJCIJT4GOO.pXF0UDz5lvnHd9PTJrkPEPgwN3vIKtu"
+  },
+  {
+    "id": "1758301532730",
+    "email": "koki@gmail.com",
+    "password": "$2a$10$E8H1/fuEoAmt0POm11UbWOQdLKkJfFXzRwcqaKUjGzw/3sGQHrpxC",
+    "firstName": "kokila",
+    "lastName": "Ranjith",
+    "phone": "8148585398",
+    "organization": "none",
+    "role": "manager",
+    "createdAt": "2025-09-19T17:05:32.730Z"
+  },
+  {
+    "id": "1758303477033",
+    "email": "banup@gmail.com",
+    "password": "$2a$10$82b2oG9NIO1Ia4/6MOda3O/OC7A8ztWnXaJDuL45o4MBz2wNwfxUy",
+    "firstName": "banu",
+    "lastName": "priya",
+    "phone": "9442351865",
+    "organization": "none",
+    "role": "user",
+    "createdAt": "2025-09-19T17:37:57.035Z"
+  },
+  {
+    "id": "1758357755132",
+    "email": "kokila549@gmail.com",
+    "password": "$2a$10$XTYjzW/hFzdUIPMKce4q8.DVMewCeMR9xlF8GcuwMmnISAaYmBDyG",
+    "firstName": "kokila",
+    "lastName": "ranjith",
+    "phone": "8148585398",
+    "organization": "None",
+    "role": "user",
+    "createdAt": "2025-09-20T08:42:35.133Z"
+  }
+]
