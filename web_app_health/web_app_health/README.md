@@ -96,11 +96,11 @@ Update the arrays in `classifications` or add new named sets, then reference the
 
 ### **Code Repository Requirements**
 
-| Requirement                     |  | Evidence                                     |
-| ------------------------------- |  | -------------------------------------------- |
-| **Complete codebase**           |  | Full project structure with backend/frontend |
-| **Setup instructions**          |  | Complete README.md with step-by-step setup   |
-| **Configuration documentation** |  | Detailed config system explanation in README |
+| Requirement                     | Status | Evidence                                     |
+| ------------------------------- | ------ | -------------------------------------------- |
+| **Complete codebase**           |        | Full project structure with backend/frontend |
+| **Setup instructions**          |        | Complete README.md with step-by-step setup   |
+| **Configuration documentation** |        | Detailed config system explanation in README |
 
 **Code Repository Evidence:**
 
@@ -121,11 +121,11 @@ Update the arrays in `classifications` or add new named sets, then reference the
 
 ### ** Data Setup Requirements**
 
-| Requirement                  |  | Evidence                                  |
-| ---------------------------- |  | ----------------------------------------- |
-| **Include all sample data**  |  | Both session_001 and session_002 included |
-| **data.js file structure**   |  | Complete datasets array with export       |
-| **session_id-based queries** |  | dataBySessionId lookup object             |
+| Requirement                  | Status | Evidence                                  |
+| ---------------------------- | ------ | ----------------------------------------- |
+| **Include all sample data**  |        | Both session_001 and session_002 included |
+| **data.js file structure**   |        | Complete datasets array with export       |
+| **session_id-based queries** |        | dataBySessionId lookup object             |
 
 **Data Setup Evidence:**
 
@@ -146,12 +146,12 @@ const data = dataBySessionId[sessionId];
 
 ### ** Configuration System Documentation**
 
-| Requirement                      | | Evidence                            |
-| -------------------------------- |  | ----------------------------------- |
-| **Add new assessment types**     |  | Step-by-step instructions in README |
-| **Modify field mappings**        |  | JSONPath examples and instructions  |
-| **Update classification ranges** |  | Classification system documentation |
-| **Configuration examples**       |  | Complete config structure examples  |
+| Requirement                      | Status | Evidence                            |
+| -------------------------------- | ------ | ----------------------------------- |
+| **Add new assessment types**     |        | Step-by-step instructions in README |
+| **Modify field mappings**        |        | JSONPath examples and instructions  |
+| **Update classification ranges** |        | Classification system documentation |
+| **Configuration examples**       |        | Complete config structure examples  |
 
 **Configuration Documentation Evidence:**
 
@@ -188,13 +188,13 @@ const data = dataBySessionId[sessionId];
 
 ### ** Demonstration Video Requirements**
 
-| Requirement                     |  | Evidence                                       |
-| ------------------------------- |  | ---------------------------------------------- |
-| **User registration and login** |  | Enhanced signup/login forms implemented        |
-| **API call with session_id**    |  | `/api/generate-report?session_id=...` endpoint |
-| **PDF appearing in filesystem** |  | Files saved to `backend/src/reports/output/`   |
-| **Opening and viewing PDF**     |  | Static serving at `/reports/<filename>`        |
-| **Configuration modification**  |  | Added `as_mental_01` assessment type           |
+| Requirement                     | Status | Evidence                                       |
+| ------------------------------- | ------ | ---------------------------------------------- |
+| **User registration and login** |        | Enhanced signup/login forms implemented        |
+| **API call with session_id**    |        | `/api/generate-report?session_id=...` endpoint |
+| **PDF appearing in filesystem** |        | Files saved to `backend/src/reports/output/`   |
+| **Opening and viewing PDF**     |        | Static serving at `/reports/<filename>`        |
+| **Configuration modification**  |        | Added `as_mental_01` assessment type           |
 
 **Demonstration Evidence:**
 
@@ -218,11 +218,11 @@ const data = dataBySessionId[sessionId];
 
 ### **Testing with Provided Data**
 
-| Requirement                               |  | Evidence                                 |
-| ----------------------------------------- |  | ---------------------------------------- |
-| **Exact sample datasets**                 |  | Both provided datasets fully implemented |
-| **Different assessment_id values**        |  | as_hr_02 and as_card_01 supported        |
-| **Configuration handles different types** |  | Different sections per assessment type   |
+| Requirement                               | Status | Evidence                                 |
+| ----------------------------------------- | ------ | ---------------------------------------- |
+| **Exact sample datasets**                 |        | Both provided datasets fully implemented |
+| **Different assessment_id values**        |        | as_hr_02 and as_card_01 supported        |
+| **Configuration handles different types** |        | Different sections per assessment type   |
 
 **Testing Evidence:**
 
