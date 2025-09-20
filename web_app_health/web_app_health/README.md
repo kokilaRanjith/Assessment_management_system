@@ -94,7 +94,7 @@ Update the arrays in `classifications` or add new named sets, then reference the
 
 ## **COMPREHENSIVE VERIFICATION**
 
-### **Code Repository Requirements**
+### **Code Repository**
 
 | Requirement                     | Status | Evidence                                     |
 | ------------------------------- | ------ | -------------------------------------------- |
@@ -119,7 +119,7 @@ Update the arrays in `classifications` or add new named sets, then reference the
   - Classification range updates
   - JSONPath examples
 
-### ** Data Setup Requirements**
+### ** Data Setup**
 
 | Requirement                  | Status | Evidence                                  |
 | ---------------------------- | ------ | ----------------------------------------- |
@@ -186,7 +186,7 @@ const data = dataBySessionId[sessionId];
   then reference them via `classify` in fields.
   ```
 
-### ** Demonstration Video Requirements**
+### ** Demonstration Video**
 
 | Requirement                     | Status | Evidence                                       |
 | ------------------------------- | ------ | ---------------------------------------------- |
